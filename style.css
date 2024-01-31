@@ -1,0 +1,5 @@
+.background{
+	background: url("vit.jpg");
+	filter: blur(4px);
+	height: 100%;
+}
